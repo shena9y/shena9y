@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=61550117573187" target="blank"><img align="center" src="https://www.svgrepo.com/show/489934/facebook.svg" alt="mohammed hamdy" height="30" width="40" /></a>
 <a href="https://instagram.com/_shena9y" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="_shena9y" height="30" width="40" /></a>
-<a href="https://discord/shena9y" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="shena9y" height="30" width="40" /></a>
+<a href="mailto:hamoohamdy100@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="shena9y" height="30" width="40" /></a>
 </p>
 <div align = "center">
 
