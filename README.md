@@ -3,7 +3,7 @@
 <br/>
 <hr/>
 <br/>
-<img align="right" width="400" src="https://raw.githubusercontent.com/shena9y/shena9y/main/Hand%20coding%20(2).gif">
+<img align="right" width="400" src="https://github.com/shena9y/shena9y/blob/main/duck.gif">
 
 - 🔭 I’m currently studying on becoming a front end Developer.
   
