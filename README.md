@@ -20,10 +20,8 @@
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/shena9y)!.
 <br/>
 <br/>
-<br/>
-<br/>
 <hr>
-<h3 color="red" align="center">Connect with me:</h3>
+<h3 color="red" align="center">Contact me:</h3>
 <br>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=61550117573187" target="blank"><img align="center" src="https://www.svgrepo.com/show/489934/facebook.svg" alt="mohammed hamdy" height="30" width="40" /></a>
@@ -37,12 +35,11 @@
 <details open>
 <summary><b>Frontend</b></summary>
 <br>
-  
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 </details>
-<br>
 <br>
 <br>
 <details open>
@@ -58,21 +55,15 @@
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 </details>
 
-<h3 align="center">Support:</h3>
-<hr/>
-<br/>
-<br/>
-<p><a href="https://www.buymeacoffee.com/shena9y"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shena9y" /></a></p><br><br>
-<hr/>
-<br>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shena9y&show_icons=true&locale=en&layout=compact" alt="shena9y" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shena9y&hide_progress=true)
 <br>
 <br>
 <hr/>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shena9y&show_icons=true&locale=en" alt="shena9y" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shena9y&show_icons=true&theme=transparent)
+
 <br>
 <br>
 <hr/>
@@ -81,4 +72,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shena9y&" alt="shena9y" /></p>
 <br>
 <br>
-<h6 align="center"> Made with ❤ by Mohammed Hamdy </h6>
