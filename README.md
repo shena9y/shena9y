@@ -34,10 +34,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shena9y&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shena9y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shena9y&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
@@ -48,8 +45,8 @@
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shena9y&theme=tokyonight" alt="Repos per language"/>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shena9y&theme=tokyonight" alt="Most used language by commits"/>
+  <!-- <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shena9y&theme=tokyonight" alt="Repos per language"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shena9y&theme=tokyonight" alt="Most used language by commits"/> -->
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shena9y&theme=tokyonight&utcOffset=2" alt="Productive time"/>
 </div>
 
