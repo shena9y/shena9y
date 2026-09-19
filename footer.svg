@@ -1,0 +1,24 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fw1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7f00ff" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="fw2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0072ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00c6ff" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,60 C150,110 350,10 600,60 C850,110 1050,10 1200,60 L1200,120 L0,120 Z" fill="url(#fw2)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,60 C150,110 350,10 600,60 C850,110 1050,10 1200,60 L1200,120 L0,120 Z;
+              M0,60 C150,10 350,110 600,60 C850,10 1050,110 1200,60 L1200,120 L0,120 Z;
+              M0,60 C150,110 350,10 600,60 C850,110 1050,10 1200,60 L1200,120 L0,120 Z"/>
+  </path>
+  <path d="M0,75 C200,120 400,25 600,75 C800,120 1000,25 1200,75 L1200,120 L0,120 Z" fill="url(#fw1)">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0,75 C200,120 400,25 600,75 C800,120 1000,25 1200,75 L1200,120 L0,120 Z;
+              M0,75 C200,25 400,120 600,75 C800,25 1000,120 1200,75 L1200,120 L0,120 Z;
+              M0,75 C200,120 400,25 600,75 C800,120 1000,25 1200,75 L1200,120 L0,120 Z"/>
+  </path>
+</svg>
