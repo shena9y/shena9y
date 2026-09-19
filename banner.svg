@@ -1,0 +1,64 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0072ff" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7f00ff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#00c6ff" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#7f9cf5"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- grid dots -->
+  <g fill="#ffffff" opacity="0.05">
+    <circle cx="60" cy="50" r="2"/><circle cx="160" cy="50" r="2"/><circle cx="260" cy="50" r="2"/><circle cx="360" cy="50" r="2"/><circle cx="460" cy="50" r="2"/><circle cx="560" cy="50" r="2"/><circle cx="660" cy="50" r="2"/><circle cx="760" cy="50" r="2"/><circle cx="860" cy="50" r="2"/><circle cx="960" cy="50" r="2"/><circle cx="1060" cy="50" r="2"/>
+    <circle cx="60" cy="110" r="2"/><circle cx="160" cy="110" r="2"/><circle cx="260" cy="110" r="2"/><circle cx="360" cy="110" r="2"/><circle cx="460" cy="110" r="2"/><circle cx="560" cy="110" r="2"/><circle cx="660" cy="110" r="2"/><circle cx="760" cy="110" r="2"/><circle cx="860" cy="110" r="2"/><circle cx="960" cy="110" r="2"/><circle cx="1060" cy="110" r="2"/>
+    <circle cx="60" cy="170" r="2"/><circle cx="160" cy="170" r="2"/><circle cx="260" cy="170" r="2"/><circle cx="360" cy="170" r="2"/><circle cx="460" cy="170" r="2"/><circle cx="560" cy="170" r="2"/><circle cx="660" cy="170" r="2"/><circle cx="760" cy="170" r="2"/><circle cx="860" cy="170" r="2"/><circle cx="960" cy="170" r="2"/><circle cx="1060" cy="170" r="2"/>
+  </g>
+
+  <!-- code brackets -->
+  <text x="120" y="170" font-family="'Fira Code',Consolas,monospace" font-size="90" fill="#00c6ff" opacity="0.85" filter="url(#glow)">&lt;/&gt;</text>
+
+  <!-- title -->
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-weight="800" font-size="58" fill="url(#titleGrad)" filter="url(#glow)">Mohammed Hamdy</text>
+  <text x="600" y="176" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="24" fill="#9adcff">Front-End Developer · Egypt 🇪🇬</text>
+  <text x="600" y="212" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="16" fill="#6b8ca3">html · css · javascript · react</text>
+
+  <!-- cursor -->
+  <rect x="985" y="192" width="12" height="24" fill="#00c6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- waves -->
+  <path d="M0,240 C150,290 350,190 600,240 C850,290 1050,190 1200,240 L1200,300 L0,300 Z" fill="url(#wave2)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,240 C150,290 350,190 600,240 C850,290 1050,190 1200,240 L1200,300 L0,300 Z;
+              M0,240 C150,190 350,290 600,240 C850,190 1050,290 1200,240 L1200,300 L0,300 Z;
+              M0,240 C150,290 350,190 600,240 C850,290 1050,190 1200,240 L1200,300 L0,300 Z"/>
+  </path>
+  <path d="M0,255 C200,300 400,210 600,255 C800,300 1000,210 1200,255 L1200,300 L0,300 Z" fill="url(#wave1)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0,255 C200,300 400,210 600,255 C800,300 1000,210 1200,255 L1200,300 L0,300 Z;
+              M0,255 C200,210 400,300 600,255 C800,210 1000,300 1200,255 L1200,300 L0,300 Z;
+              M0,255 C200,300 400,210 600,255 C800,300 1000,210 1200,255 L1200,300 L0,300 Z"/>
+  </path>
+</svg>
