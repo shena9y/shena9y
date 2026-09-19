@@ -1,0 +1,92 @@
+<svg width="420" height="340" viewBox="0 0 420 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="winBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b27"/>
+    </linearGradient>
+    <linearGradient id="titleBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1f2e"/>
+      <stop offset="100%" stop-color="#141926"/>
+    </linearGradient>
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- ambient glow blobs -->
+  <circle cx="70" cy="70" r="60" fill="#00c6ff" opacity="0.10">
+    <animate attributeName="cy" values="70;90;70" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="360" cy="280" r="70" fill="#7f00ff" opacity="0.10">
+    <animate attributeName="cy" values="280;255;280" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- editor window -->
+  <g filter="url(#shadow)">
+    <rect x="45" y="42" width="330" height="236" rx="12" fill="url(#winBg)" stroke="#2a3244" stroke-width="1.5"/>
+    <rect x="45" y="42" width="330" height="34" rx="12" fill="url(#titleBar)"/>
+    <rect x="45" y="64" width="330" height="12" fill="url(#titleBar)"/>
+    <circle cx="66" cy="59" r="5.5" fill="#ff5f57"/>
+    <circle cx="86" cy="59" r="5.5" fill="#febc2e"/>
+    <circle cx="106" cy="59" r="5.5" fill="#28c840"/>
+    <text x="210" y="64" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="11" fill="#5c6b80">about-me.js</text>
+  </g>
+
+  <!-- code lines -->
+  <g font-family="'Fira Code',Consolas,monospace" font-size="12.5">
+    <text x="62" y="98" opacity="0"><tspan fill="#c792ea">const</tspan><tspan fill="#d6deeb"> dev </tspan><tspan fill="#89ddff">=</tspan><tspan fill="#d6deeb"> {</tspan><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.01s" fill="freeze"/></text>
+    <text x="78" y="118" opacity="0"><tspan fill="#d6deeb">name: </tspan><tspan fill="#c3e88d">'Mohammed Hamdy'</tspan><tspan fill="#d6deeb">,</tspan><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.01s" fill="freeze"/></text>
+    <text x="78" y="138" opacity="0"><tspan fill="#d6deeb">role: </tspan><tspan fill="#c3e88d">'Front-End Developer'</tspan><tspan fill="#d6deeb">,</tspan><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.01s" fill="freeze"/></text>
+    <text x="78" y="158" opacity="0"><tspan fill="#d6deeb">skills: [</tspan><tspan fill="#c3e88d">'HTML'</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">'CSS'</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">'JS'</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">'React'</tspan><tspan fill="#d6deeb">],</tspan><animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.01s" fill="freeze"/></text>
+    <text x="78" y="178" opacity="0"><tspan fill="#d6deeb">passion: </tspan><tspan fill="#c3e88d">'building the web'</tspan><tspan fill="#d6deeb">,</tspan><animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.01s" fill="freeze"/></text>
+    <text x="78" y="198" opacity="0"><tspan fill="#d6deeb">hireable: </tspan><tspan fill="#f78c6c">true</tspan><animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.01s" fill="freeze"/></text>
+    <text x="62" y="218" opacity="0"><tspan fill="#d6deeb">};</tspan><animate attributeName="opacity" from="0" to="1" begin="5s" dur="0.01s" fill="freeze"/></text>
+    <rect x="78" y="230" width="8" height="15" fill="#00c6ff" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0;1;1;0" keyTimes="0;0.06;0.5;0.56;0.9;0.96;0.98;1" dur="1.2s" begin="5.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <!-- floating badges -->
+  <g filter="url(#softGlow)">
+    <g opacity="0.95">
+      <rect x="268" y="8" width="64" height="26" rx="13" fill="url(#badgeGrad)" stroke="#00c6ff" stroke-width="1"/>
+      <text x="300" y="25" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#00c6ff">HTML</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="3.4s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0.95">
+      <rect x="20" y="150" width="58" height="26" rx="13" fill="url(#badgeGrad)" stroke="#7f9cf5" stroke-width="1"/>
+      <text x="49" y="167" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#7f9cf5">CSS</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -9; 0 0" dur="4.1s" begin="0.5s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0.95">
+      <rect x="330" y="150" width="52" height="26" rx="13" fill="url(#badgeGrad)" stroke="#f7df1e" stroke-width="1"/>
+      <text x="356" y="167" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#f7df1e">JS</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="3.7s" begin="0.9s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0.95">
+      <rect x="40" y="300" width="72" height="26" rx="13" fill="url(#badgeGrad)" stroke="#61dafb" stroke-width="1"/>
+      <text x="76" y="317" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#61dafb">React</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="4.5s" begin="1.3s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0.95">
+      <rect x="300" y="300" width="88" height="26" rx="13" fill="url(#badgeGrad)" stroke="#00c6ff" stroke-width="1"/>
+      <text x="344" y="317" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#00c6ff">Git &amp; GitHub</text>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="3.9s" begin="0.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- orbiting sparkles -->
+  <circle r="2.4" fill="#00c6ff" opacity="0.9">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M210,160 m-185,0 a185,130 0 1,1 370,0 a185,130 0 1,1 -370,0"/>
+  </circle>
+  <circle r="1.8" fill="#7f9cf5" opacity="0.7">
+    <animateMotion dur="12s" begin="-4s" repeatCount="indefinite" path="M210,160 m185,0 a185,130 0 1,0 -370,0 a185,130 0 1,0 370,0"/>
+  </circle>
+</svg>
