@@ -1,64 +1,115 @@
-![Banner](https://github.com/shena9y/shena9y/blob/main/githubProfileImg-1.jpg)
+<img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/banner.svg" alt="banner"/>
 
-<h1 align="center">Hi there! 👋 I'm Mohammed Hamdy</h1>
-<h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬, always learning and building for the web</h3>
+<div align="center">
 
-<img align="right" width="380" src="https://github.com/shena9y/shena9y/blob/main/Hand%20coding%20(2).gif" alt="coding gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Mohammed+Hamdy;Front-End+Developer+%F0%9F%9A%80;JavaScript+Enthusiast+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-- 🔭 I'm currently studying to become a **Front-End Developer**
-- 🌱 Improving my skills every day, especially in **JavaScript**
-- 🧩 Practicing by building projects & solving [**Frontend Mentor**](https://www.frontendmentor.io/profile/shena9y) challenges
-- 👯 I'm looking to collaborate on **new front-end projects**
-- 🤝 Open to any info or advice that helps me grow
-- 👨‍💻 All of my projects are available at [**github.com/shena9y**](https://github.com/shena9y)
+</div>
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/shena9y/shena9y/main/Hand%20coding%20(2).gif" alt="coding gif"/>
+
+### 👨‍💻 About Me
+
+- 🇪🇬 Front-End Developer based in **Egypt**
+- 🔭 Currently mastering **JavaScript** & modern web tech
+- 🧩 Sharpening my skills with [**Frontend Mentor**](https://www.frontendmentor.io/profile/shena9y) challenges
+- 🌱 Leveling up toward **React** & full-stack development
+- 👯 Open to collaborating on **front-end projects**
 - 📫 Reach me at **hamoohamdy100@gmail.com**
+- ⚡ Fun fact: *"Great things are built one commit at a time."* 🦆
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,figma&perline=9)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shena9y&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shena9y&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shena9y&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shena9y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shena9y&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+</div>
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| 🌐 [3D-WEBSITE](https://github.com/shena9y/3D-WEBSITE) | Modern 3D landing page with Spline & AOS scroll animations | HTML · CSS · Spline |
-| 📰 [News-homepage-solution](https://github.com/shena9y/News-homepage-solution) | Responsive news homepage with animated mobile menu | HTML · CSS · JS |
-| 🚇 [passenger-counter](https://github.com/shena9y/passenger-counter) | Counter app with save-entries log | HTML · CSS · JS |
-| 🧮 [Calculator](https://github.com/shena9y/Calculator) | Basic calculator with full keyboard pad | HTML · CSS · JS |
-| 💸 [Tip-Calculator](https://github.com/shena9y/Tip-Calculator) | Quick bill + tip % total calculator | HTML · CSS · JS |
-| 🔗 [Social-links-profile](https://github.com/shena9y/Social-links-profile) | Frontend Mentor social links profile card | HTML · CSS |
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shena9y&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00c6ff&line=7f00ff&point=ffffff" alt="Activity graph"/>
+</div>
 
 ---
 
-## 📫 Connect With Me
+### 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shena9y/shena9y/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shena9y/shena9y/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shena9y/shena9y/output/github-snake-dark.svg"/>
+  </picture>
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech | 🔗 Live |
+|:--|:--|:--:|:--:|
+| [**3D-WEBSITE**](https://github.com/shena9y/3D-WEBSITE) | Modern 3D landing page with Spline & AOS animations | HTML · CSS · Spline | [Demo](https://shena9y.github.io/3D-WEBSITE/) |
+| [**walthome**](https://github.com/shena9y/walthome) | Full responsive real-estate website — rent & buy | HTML · CSS · JS | [Demo](https://shena9y.github.io/walthome/) |
+| [**Portfolio**](https://github.com/shena9y/Portfolio) | Personal portfolio with canvas hero animation | HTML · CSS · JS | [Demo](https://shena9y.github.io/Portfolio/) |
+| [**Quiz Game**](https://github.com/shena9y/Quiz-game-project-) | Interactive quiz with progress bar & score tracking | HTML · CSS · JS · Bootstrap | [Demo](https://shena9y.github.io/Quiz-game-project-/) |
+| [**Calculator**](https://github.com/shena9y/Calculator) | Clean, fully working calculator | HTML · CSS · JS | [Demo](https://shena9y.github.io/Calculator/) |
+| [**rockPaperScissers**](https://github.com/shena9y/rockPaperScissers) | Classic game vs. the computer | HTML · CSS · JS | [Demo](https://shena9y.github.io/rockPaperScissers/) |
+
+</div>
+
+<div align="center">
+
+📂 **Explore all my repos → [github.com/shena9y?tab=repositories](https://github.com/shena9y?tab=repositories)**
+
+</div>
+
+---
+
+### 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-hamoohamdy100%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamoohamdy100@gmail.com)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-shena9y-3e54a3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/shena9y)
 [![GitHub](https://img.shields.io/badge/GitHub-shena9y-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shena9y)
 
-<p align="center">
-  <img src="https://github.com/shena9y/shena9y/blob/main/duck.gif" width="120" alt="duck" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shena9y&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="profile views"/>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/shena9y/shena9y/main/duck.gif" width="100" alt="duck"/>
   <br/>
-  <i>“Great things are built one commit at a time.” 🦆</i>
-</p>
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/footer.svg" alt="footer wave"/>
