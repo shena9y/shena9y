@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/banner.svg" alt="banner"/>
+﻿<img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/banner.svg" alt="banner"/>
 
 <div align="center">
 
@@ -35,8 +35,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shena9y&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shena9y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shena9y&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shena9y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 </div>
 
 <div align="center">
@@ -44,11 +44,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shena9y&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00c6ff&line=7f00ff&point=ffffff" alt="Activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shena9y&theme=tokyonight" alt="Profile details"/>
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shena9y&theme=tokyonight" alt="Repos per language"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shena9y&theme=tokyonight" alt="Most used language by commits"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shena9y&theme=tokyonight&utcOffset=2" alt="Productive time"/>
 </div>
 
 ---
-
 ### 🐍 My Contributions
 
 <div align="center">
@@ -113,3 +118,5 @@
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/footer.svg" alt="footer wave"/>
+
+
