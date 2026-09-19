@@ -1,4 +1,4 @@
-﻿<img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/banner.svg" alt="banner"/>
+﻿﻿<img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/banner.svg" alt="banner"/>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/shena9y/shena9y/main/Hand%20coding%20(2).gif" alt="coding gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/shena9y/shena9y/main/aboutme.svg" alt="about me - animated code window"/>
 
 ### 👨‍💻 About Me
 
@@ -115,5 +115,6 @@
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/shena9y/shena9y/main/footer.svg" alt="footer wave"/>
+
 
 
