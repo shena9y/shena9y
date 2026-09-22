@@ -30,25 +30,6 @@
 
 </div>
 
----
-
-### 📊 GitHub Analytics
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shena9y&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shena9y&theme=tokyonight" alt="Profile details"/>
-</div>
-
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shena9y&theme=tokyonight" alt="Repos per language"/>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shena9y&theme=tokyonight" alt="Most used language by commits"/> 
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shena9y&theme=tokyonight&utcOffset=2" alt="Productive time"/>
-</div>
 
 ---
 ### 🐍 My Contributions
